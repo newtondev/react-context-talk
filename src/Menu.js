@@ -16,7 +16,7 @@ export default () => {
           <li><Link to="/props-passing-example">Props Passing</Link></li>
           <li><Link to="/context-example">Using Context</Link></li>
           <li><Link to="/actions-context-example">Actions using Context</Link></li>
-          <li><Link to="/themed-context-example">Themed Context</Link></li>
+          <li><Link to="/theme-context-example">Themed Context</Link></li>
         </ul>
     </div>
   );
